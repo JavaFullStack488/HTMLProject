@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Second</title>
+</head>
+<body>
+
+<h3>Lucky is a good boy</h3>
+
+<p style="color:red;">He is my favourite</p>
+</body>
+</html>
